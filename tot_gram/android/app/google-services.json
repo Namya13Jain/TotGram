@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951127069183",
+    "project_id": "totgram-ce6e4",
+    "storage_bucket": "totgram-ce6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951127069183:android:1b1c17968c6b116b3a57ca",
+        "android_client_info": {
+          "package_name": "com.example.tot_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951127069183-uoufh2hbd9gu4c84mh6hvjrnmahgqfmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShY1bK7Y5lMd3C8xdcJcRoB6DjQaQ-kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951127069183-uoufh2hbd9gu4c84mh6hvjrnmahgqfmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

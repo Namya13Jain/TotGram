@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
@@ -17,12 +18,12 @@ class _LoginScreenState extends State<LoginScreen> {
             horizontal: 32, vertical: double.infinity),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
-          children: const [
+          children: [
             //logo
-            Image(
-              image: AssetImage("assets/images/logo.png"),
-              height: 200,
-            )
+            SvgPicture.asset(
+              'assets/images/pic.svg',
+              height: 64,
+            ),
             //text field input for email
 
             //text field input for password

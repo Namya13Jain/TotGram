@@ -36,6 +36,7 @@ dependencies:
   firebase_storage: ^11.0.14
   flutter:
     sdk: flutter
+  flutter_svg: ^2.0.2
   page_transition: null
 
 dev_dependencies:
